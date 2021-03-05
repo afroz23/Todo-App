@@ -22,8 +22,10 @@ You will also see any lint errors in the console.
 2. Edit elements in the list
 3. Delete elements in the list
 
-### `Images`
+### `Some Screenshots`
 ![Add elements to the list](add.png)
+![Edit elements to the list](edit.png)
+![Delete elements to the list](delete.png)
 
 ### `Deploy`
 [GitHub Pages](https://afroz23.github.io/Todo-App)
