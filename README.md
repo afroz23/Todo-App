@@ -22,9 +22,12 @@ You will also see any lint errors in the console.
 2. Edit elements in the list
 3. Delete elements in the list
 
-### `Some Screenshots`
+### `Screenshots`
+##### Add elements to the list
 ![Add elements to the list](add.png)
+###### Edit elements to the list
 ![Edit elements to the list](edit.png)
+###### Delete elements to the list
 ![Delete elements to the list](delete.png)
 
 ### `Deploy`
