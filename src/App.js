@@ -80,8 +80,3 @@ class App extends Component{
   }
 }
 export default App;
-
-// Things that we can learn here:
-// 1. How to add elements to the list
-// 2. How to edit elements in the list
-// 3. How to delete elements in the list

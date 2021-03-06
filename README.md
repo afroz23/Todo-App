@@ -24,11 +24,11 @@ You will also see any lint errors in the console.
 
 ### `Screenshots`
 ##### Add elements to the list
-![Add elements to the list](add.png)
+![Add elements to the list](/Screenshots/add.png)
 ###### Edit elements to the list
-![Edit elements to the list](edit.png)
+![Edit elements to the list](/Screenshots/edit.png)
 ###### Delete elements to the list
-![Delete elements to the list](delete.png)
+![Delete elements to the list](/Screenshots/delete.png)
 
 ### `Deploy`
 Published at [GitHub Pages](https://afroz23.github.io/Todo-App)
