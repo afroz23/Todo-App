@@ -1,34 +1,37 @@
-# Todo App 
+# Todo-list
 
 ## Project Title
-A simple Todo app using ReactJS
 
-## Getting Started
+Todo list using ReactJS, State Hook.
 
-### `Prerequisites`
-ReactJS,operating system,browser.
+## `Functions`
 
-### `Installing`
-Try installing all the packages from package.json
+These are the functions of this todo-list app.
 
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `Functions`
-1. Add elements to the list
-2. Edit elements in the list
-3. Delete elements in the list
+1. Add todo.
+2. Display todos.
+3. Cross off todo (Complete todo).
+4. Show the number of active todos.
+5. Filter all/active/complete.
+6. Delete todo.
+7. Delete all complete.
+   1. Only show if at least one is complete.
+8. Button to toggle all on/off(Complete/Incomplete).
 
 ### `Screenshots`
+
 ##### Add elements to the list
-![Add elements to the list](/Screenshots/add.png)
+
+![Add todo](/Screenshots/add.png){width=40px height=400px})
+
 ###### Edit elements to the list
-![Edit elements to the list](/Screenshots/edit.png)
+
+![Crossoff todo](/Screenshots/crossoff.png)
+
 ###### Delete elements to the list
-![Delete elements to the list](/Screenshots/delete.png)
+
+![Delete todo](/Screenshots/delete.png)
 
 ### `Deploy`
+
 Published at [GitHub Pages](https://afroz23.github.io/Todo-App)
