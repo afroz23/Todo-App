@@ -20,17 +20,21 @@ These are the functions of this todo-list app.
 
 ### `Screenshots`
 
-##### Add elements to the list
+##### Add todo
 
-![Add todo](/Screenshots/add.png){width=40px height=400px})
+<img src="/Screenshots/add.png" width="400"/>
 
-###### Edit elements to the list
+###### Crossoff todo
 
-![Crossoff todo](/Screenshots/crossoff.png)
+<img src="/Screenshots/crossoff.png" width="400"/>
 
-###### Delete elements to the list
+###### Delete todo
 
-![Delete todo](/Screenshots/delete.png)
+<img src="/Screenshots/delete.png" width="400"/>
+
+###### toggle all todos
+
+<img src="/Screenshots/toggle.png" width="400"/>
 
 ### `Deploy`
 
