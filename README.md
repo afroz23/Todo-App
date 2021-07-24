@@ -22,19 +22,19 @@ These are the functions of this todo-list app.
 
 ##### Add todo
 
-<img src="/Screenshots/add.png" width="400"/>
+<img src="/Screenshots/add.png" height="400"/>
 
 ###### Crossoff todo
 
-<img src="/Screenshots/crossoff.png" width="400"/>
+<img src="/Screenshots/crossoff.png" height="400"/>
 
 ###### Delete todo
 
-<img src="/Screenshots/delete.png" width="400"/>
+<img src="/Screenshots/delete.png" height="400"/>
 
 ###### toggle all todos
 
-<img src="/Screenshots/toggle.png" width="400"/>
+<img src="/Screenshots/toggle.png" height="400"/>
 
 ### `Deploy`
 
